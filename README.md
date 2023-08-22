@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## 💜 Olá, meu nome é <strong>{Clara}!</strong>
 
-> Sou nova na área de programação mas pretendo me qualificar tanto em Front-End quanto Mobile, estou me formando em engenharia da computação e fazendo cursos online.
+> Sou nova na área de programação mas pretendo me qualificar tanto em Front-End quanto Mobile IOS, estou me formando em engenharia da computação e fazendo cursos online.
 
 
 
