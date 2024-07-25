@@ -1,11 +1,6 @@
-
-
 ![giphy](https://github.com/user-attachments/assets/e6a4cf84-ca98-4474-bce8-60f1652954a5)
 
-## 💜 Hi, I´m Clara </strong>
-
-> Sou nova na área de programação mas pretendo me qualificar tanto em Front-End quanto Mobile IOS, estou me formando em engenharia da computação e fazendo cursos online.
-
+## 💜 Hi, I´m Clara
 
 
 ----
@@ -23,6 +18,3 @@
 
 
 ---
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claratbs&show_icons=true&theme=dracula)
