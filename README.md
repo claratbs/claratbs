@@ -1,6 +1,7 @@
 ### Hello There! 👋
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl5emVybjZsZWN1bDcxZTJ0ZmtnMWpyNzRta3Q1ZzIxenU4OWR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif
+![image](https://github.com/user-attachments/assets/8033ea34-5db1-4167-8970-09925c4a61d2)
+
 
 ## 💜 Oii! Me chamo Clara, </strong>
 
