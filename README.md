@@ -1,7 +1,6 @@
 ### Hello There! 👋
 
-![image](https://github.com/user-attachments/assets/8033ea34-5db1-4167-8970-09925c4a61d2)
-
+![giphy](https://github.com/user-attachments/assets/e6a4cf84-ca98-4474-bce8-60f1652954a5)
 
 ## 💜 Oii! Me chamo Clara, </strong>
 
