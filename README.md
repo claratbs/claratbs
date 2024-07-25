@@ -1,5 +1,8 @@
-### Hi there 👋
-## 💜 Olá, meu nome é <strong>{Clara}!</strong>
+### Hello There! 👋
+
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl5emVybjZsZWN1bDcxZTJ0ZmtnMWpyNzRta3Q1ZzIxenU4OWR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif
+
+## 💜 Oii! Me chamo Clara, </strong>
 
 > Sou nova na área de programação mas pretendo me qualificar tanto em Front-End quanto Mobile IOS, estou me formando em engenharia da computação e fazendo cursos online.
 
